@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with HTML,CSS,JavaScript,Java and SQL.
 - 📫 How to reach me: You can reach me through my LinkedIn Account.
 
-https://img.shields.io/badge/just%20the%20message-8A2BE2- JAVA
