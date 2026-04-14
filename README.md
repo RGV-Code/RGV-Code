@@ -35,7 +35,7 @@ const rocco = {
   university: "CPUT — DIP: ICT in Applications Development (3rd Year)",
   focus:      "Full-Stack Development",
   stack:      ["HTML", "CSS", "JavaScript", "Java", "SQL"],
-  available:  true,  // open to collaborate!
+  available:  true,
   funFact:    "I debug in dark mode so the bugs can't see me coming 🦇",
   motto:      "First, solve the problem. Then, write the code.",
 };
