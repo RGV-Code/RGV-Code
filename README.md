@@ -95,14 +95,6 @@ const rocco = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RGV-Code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3dd68c&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGV-Code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="180"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=RGV-Code&theme=github-dark&hide_border=true&background=0d1117&stroke=1a2a4a&ring=58a6ff&fire=3dd68c&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="520"/>
 
 </div>
